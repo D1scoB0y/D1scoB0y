@@ -2,7 +2,7 @@
 
 # Разработчик ПО
 
-### Обо мне:
+### Обо мне
 
 1. Сейчас мне 17 лет
 2. Программирую с 14 лет на __Python__
@@ -13,7 +13,7 @@
 ***
 
 <div>
-    <h3>Технологии и инструменты:</h3>
+    <h3>Технологии и инструменты</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=32 height=32 alt='python' />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width=32 height=32 alt='fastapi' />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=32 height=32 alt='typescript' />
@@ -23,7 +23,7 @@
 
 ***
 
-### Глобальные цели:
+### Глобальные цели
 
 1. Переезд в USA/UK
 2. Собственный стартап в сфере ИИ и финансов
