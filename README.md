@@ -33,5 +33,5 @@
 ### Связь
 
 1. Email: __jyjyartem@gmail.com__
-2. Telegram: __@DiscBoy1337__
+2. Telegram: __@DiscoBoy1337__
 3. Discord: __discoboy.__
