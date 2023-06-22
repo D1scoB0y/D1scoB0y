@@ -1,20 +1,19 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-# Разработчик ПО
+# Software Developer
 
-### Обо мне
+### BIO
 
-1. Сейчас мне 17 лет
-2. Программирую с 14 лет на __Python__
-3. Прошел 2 бесплатных курса по python разработке по гос. программе "Код будующего"
-4. Основное направление: __Веб разработка__
-5. Развиваюсь в теме __нейронных сетей__, __искусственного интеллекта__ и __машинного обучения__
-6. Уровень английского языка: __B1__
+1. Now I am 17 y.o.
+2. I have been programming since I was 14 in __`Python`__
+3. Main field of activity: __`Web development`__
+4. I am developing in the topic of __`AI`__
+5. English language level: __`B1`__
 
 ***
 
 <div>
-    <h3>Технологии и инструменты</h3>
+    <h3>Technologies and tools</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=32 height=32 alt='python' />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width=32 height=32 alt='fastapi' />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=32 height=32 alt='typescript' />
@@ -24,14 +23,14 @@
 
 ***
 
-### Глобальные цели
+### Global goals
 
-1. Переезд в USA/UK
-2. Собственный стартап в сфере ИИ и финансов
+1. Moving to USA/UK
+2. Own startup in the field of AI
 
 ***
 
-### Связь
+### Сontacts
 
 1. Email: __jyjyartem@gmail.com__
 2. Telegram: __@DiscoBoy1337__
