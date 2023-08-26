@@ -7,8 +7,7 @@
 1. Now I am 17 y.o.
 2. I have been programming since I was 14 in __`Python`__
 3. Main field of activity: __`Web development`__
-4. I am developing in the topic of __`AI`__
-5. English language level: __`B1`__
+4. English language level: __`B1`__
 
 ***
 
@@ -26,7 +25,7 @@
 ### Global goals
 
 1. Moving to USA/UK
-2. Own startup in the field of AI
+2. Own startup
 
 ***
 
