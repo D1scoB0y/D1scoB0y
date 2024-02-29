@@ -4,7 +4,7 @@
 
 ### BIO
 
-1. Now I am 17 y.o.
+1. Now I am 18 y.o.
 2. I have been programming since I was 14 in __`Python`__
 3. Main field of activity: __`Web development`__
 4. English language level: __`B1`__
