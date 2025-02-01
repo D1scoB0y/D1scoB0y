@@ -4,7 +4,7 @@
 
 ### BIO
 
-1. Now I am 18 y.o.
+1. Now I am 19 y.o.
 2. I have been programming since I was 14 in __`Python`__
 3. Main field of activity: __`Web development`__
 4. English language level: __`B1`__
@@ -13,6 +13,7 @@
 
 <div>
     <h3>Technologies and tools</h3>
+    <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original-wordmark.svg" width=32 height=32 alt='python' />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=32 height=32 alt='python' />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width=32 height=32 alt='fastapi' />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=32 height=32 alt='typescript' />
